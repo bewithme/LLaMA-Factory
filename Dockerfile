@@ -40,4 +40,4 @@ ADD tests tests
 #sudo docker build -t='registry.cn-hangzhou.aliyuncs.com/bewithmeallmylife/llama-factory-app-cuda-11.4.0:1.0.0' .
 
 
-#sudo docker run --net=host  --gpus '"device=0,1"' --privileged -v /home/xuwenfeng/app-sourcecode/LLM/LLaMA-Factory:/app/LLaMA-Factory -v /home/xuwenfeng/app-sourcecode/LLM/cache:/root/.cache -it -d registry.cn-hangzhou.aliyuncs.com/bewithmeallmylife/llama-factory-app-cuda-11.4.0:1.0.0
+#sudo docker run --net=host  --gpus '"device=0,1"' --privileged -v /home/xuwenfeng/app-sourcecode/LLM/LLaMA-Factory:/app/LLaMA-Factory -v /home/xuwenfeng/app-sourcecode/LLM/cache:/root/.cache -it -d registry.cn-hangzhou.aliyuncs.2                     / 不过他骗人，kefo0-/kv， ，从喜上眉梢我把情人2 3vocom/bewithmeallmylife/llama-factory-app-cuda-11.4.0:1.0.0
